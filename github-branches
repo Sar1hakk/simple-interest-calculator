@@ -1,30 +1,17 @@
-Last login: Sat Feb 21 07:15:06 on ttys000
-sar1hak@Sarthaks-MacBook-Air ~ % git branch -a -vv
-  bug-fix-typo cef3ee1 Initial commit
-* main         cef3ee1 Initial commit
-sar1hak@Sarthaks-MacBook-Air ~ % 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1
+{
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+  "id": 8529341,
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/1",
+  "state": "closed",
+  "user": {
+    "login": "Sar1hakk"
+  },
+  "head": {
+    "label": "Sar1hakk:bug-fix-typo",
+    "ref": "bug-fix-typo",
+    "repo": {
+      "full_name": "Sar1hakk/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
